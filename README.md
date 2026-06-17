@@ -4,7 +4,7 @@ A pixel-accurate front-end clone of Netflix's homepage built with pure HTML, CSS
 no frameworks, no shortcuts.
 
 ## 🔗 Live Demo
-👉 [View Live](https://kunal4137.github.io/Netflix_Clone)
+👉 [View Live](https://6a3248a3478f2ac6983778b8--jazzy-kitten-38b07d.netlify.app/)
 
 ## ✨ Features
 - Responsive hero banner section
